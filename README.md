@@ -1,6 +1,6 @@
 # Cookbook Management System
 
-A Python application for managing and storing cookbooks.
+A Python application for managing and storing cookbooks. The application provides a robust backend for creating, storing, and managing recipes and cookbooks.
 
 ## Project Structure
 ```
